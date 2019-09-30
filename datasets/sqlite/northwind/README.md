@@ -26,6 +26,8 @@ npm run prisma2 dev
 
 You can now open Prisma Studio on: [`http://localhost:5555`](http://localhost:5555).
 
+![](https://i.imgur.com/RJqtoJHr.png)
+
 ### 3. (Optional) Run demo script
 
 This folder also contains a runnable demo script that you can execute as follows:

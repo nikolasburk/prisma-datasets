@@ -33,6 +33,8 @@ npm run prisma2 dev
 
 You can now open Prisma Studio on: [`http://localhost:5555`](http://localhost:5555).
 
+![](https://i.imgur.com/rvbkFUCr.png)
+
 The development mode lets you make quick changes to your data model as you develop your application without the need to persist these changes in a migration.  Learn more [here](https://github.com/prisma/prisma2/blob/master/docs/development-mode.md).
 
 
