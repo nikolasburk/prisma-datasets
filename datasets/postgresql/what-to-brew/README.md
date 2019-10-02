@@ -11,8 +11,8 @@ This dataset is a crowd sourced database of how well beer styles (Stout, Pale Al
 Get started by cloning the repo and navigating into this directory:
 
 ```
-git clone git@github.com:infoverload/datasets.git
-cd datasets/datasets/postgresql/brew
+git clone git@github.com:prisma/prisma-datasets.git
+cd prisma-datasets/datasets/postgresql/brew
 ```
 
 ### 2. Explore the dataset

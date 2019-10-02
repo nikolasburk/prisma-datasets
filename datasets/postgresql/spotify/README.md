@@ -12,8 +12,8 @@ This dataset is a representation of playlists in a Spotify account.  It includes
 Get started by cloning the repo and navigating into this directory:
 
 ```
-git clone git@github.com:infoverload/datasets.git
-cd datasets/datasets/postgresql/spotify
+git clone git@github.com:prisma/prisma-datasets.git
+cd prisma-datasets/datasets/postgresql/spotify
 ```
 
 ### 2. Explore the dataset

@@ -11,8 +11,8 @@ This dataset has been adapted from https://github.com/pthom/northwind_psql.
 Get started by cloning the repo and navigating into this directory:
 
 ```
-git clone git@github.com:infoverload/datasets.git
-cd datasets/datasets/sqlite/northwind
+git clone git@github.com:prisma/prisma-datasets.git
+cd prisma-datasets/datasets/sqlite/northwind
 ```
 
 ### 2. Launch Prisma's development mode to access Prisma Studio

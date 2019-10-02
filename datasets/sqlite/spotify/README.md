@@ -11,8 +11,8 @@ This dataset is a representation of playlists in a Spotify account.
 Get started by cloning the repo and navigating into this directory:
 
 ```
-git clone git@github.com:infoverload/datasets.git
-cd datasets/datasets/sqlite/spotify
+git clone git@github.com:prisma/prisma-datasets.git
+cd prisma-datasets/datasets/sqlite/spotify
 ```
 
 ### 2. Explore the dataset

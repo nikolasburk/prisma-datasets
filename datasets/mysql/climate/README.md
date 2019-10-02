@@ -13,8 +13,8 @@ It is adapted from [here](https://michaelxander.com/climate-data/).
 Get started by cloning the repo and navigating into this directory:
 
 ```
-git clone git@github.com:infoverload/datasets.git
-cd datasets/datasets/mysql/climate
+git clone git@github.com:prisma/prisma-datasets.git
+cd prisma-datasets/datasets/mysql/climate
 ```
 
 ### 2. Explore the dataset
